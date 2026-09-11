@@ -308,7 +308,7 @@ The SQL files are organized to demonstrate progression from database setup to ad
 
 ### Screening Evaluation
 
-![Fraud Screening Evaluation](screenshots/07_fraud_screening_evaluation.png)
+![Fraud Screening Evaluation](screenshots/07_fraud_model_evaluation.png)
 
 ### Threshold Sensitivity
 
